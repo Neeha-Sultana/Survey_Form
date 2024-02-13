@@ -32,7 +32,6 @@ form {
     flex-direction: column;
     font-size: 22px;
 }
-
 #name, #email, #number, #dropdown {
     outline: none;
     width: 100%;
