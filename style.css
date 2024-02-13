@@ -70,7 +70,6 @@ textarea {
 [type="checkbox"]+label>span, [type="radio"]+label {
     font-size: 16px;
 }
-
 [type="checkbox"], [type="radio"] {
     margin: 0 8px 0 0;
     box-sizing: border-box;
