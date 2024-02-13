@@ -85,7 +85,6 @@ textarea {
     pointer-events: none;
 }
 
-
 .radio-group, .checkbox-group {
     display: flex;
     flex-direction: row;
