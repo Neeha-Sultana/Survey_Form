@@ -75,7 +75,6 @@ textarea {
     min-width: 18px;
     min-height: 18px;
 }
-
 /*hide the original checkbox and radio button*/
 
 [type="checkbox"] , [type="radio"] {
